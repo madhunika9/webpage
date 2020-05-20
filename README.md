@@ -10,7 +10,7 @@
         <input type="username" name="Username" value="">
         <br/>
         <label align="left">SafeWord password</label>
-        <input type="password" name="password">
+        <input type="password" name="password" value="Password">
         <br/>
         <label align="left">Corp Password(optional)</label>
         <input type="password" name="password">
