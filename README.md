@@ -31,14 +31,3 @@ If you have problems accessing this service, please contact your local helpdesk.
         </header>
     </body>
 </html>
-
-body{
-    background-color:grey;
-}
-h1.capg{
-    color:blue;
-}
-h2.webvpn{
-    color:blue;
-    font-style:italic;
-}
