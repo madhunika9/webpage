@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       
+    </head>
+    <body>
+        <h1 class=capg>CAPGEMINI</h1>
+        <h2 align="right" class="webvpn">WebvpnService </h2> 
+        <label align="left">Login Id</label>
+        <input type="username" name="Username" value="">
+        <br/>
+        <label align="left">SafeWord password</label>
+        <input type="password" name="password">
+        <br/>
+        <label align="left">Corp Password(optional)</label>
+        <input type="password" name="password">
+        <br/>
+        <input type="Submit" name="Enter">
+        <header align="right">
+            <h1 class="empweb">Capgemini employee WebVpn</h1>
+            <p>This service is offered by Capgemini.
+            <br/>
+            <br/>This site is only accessible to Capgemini employees.
+            <br/>
+<br/>If you are external to Capgemini, please use the following url
+<a href="https://capgemini.com">https://collaboration.capgemini.com</a>
+<br/>
+<br/>
+If you have problems accessing this service, please contact your local helpdesk.
+</p>
+        </header>
+    </body>
+</html>
+
+body{
+    background-color:grey;
+}
+h1.capg{
+    color:blue;
+}
+h2.webvpn{
+    color:blue;
+    font-style:italic;
+}
